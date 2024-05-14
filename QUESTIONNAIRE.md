@@ -21,7 +21,7 @@ puis enregistrez vos réponse en effectuant votre premier commit (si vous avez q
 2. Algorithmes de base (tri, recherche, etc.)
    - [ ] 1
    - [ ] 2
-   - [V] 3
+     [] 3
    - [ ] 4
    - [ ] 5
 3. Programmation orientée objet
